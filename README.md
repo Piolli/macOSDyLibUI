@@ -1,7 +1,7 @@
 # macOSDyLibUI
 Dynamic adding NSView into macOS app through the dylib
 
-![Alt text](/screenshots/screenshot.png?raw=true "Screenshot")
+<img src="/screenshots/screenshot.png" width="65%" height="65%">
 
 ### Installing:
 ```
