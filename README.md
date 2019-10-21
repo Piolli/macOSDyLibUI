@@ -1,6 +1,8 @@
 # macOSDyLibUI
 Dynamic adding NSView into macOS app through the dylib
 
+![Alt text](/screenshots/screenshot.png?raw=true "Screenshot")
+
 ### Installing:
 ```
 1. Just copy dylibs from lib1 and lib2 by dragging files from folder to XCode project files hierarchy.
