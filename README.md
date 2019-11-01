@@ -6,6 +6,6 @@ Dynamic adding NSView into macOS app through the dylib
 ### Installing:
 ```
 1. Just copy dylibs by dragging files from folder to XCode project files hierarchy. In the copy dialog check main project target.
-2. Copy dylibs to /Xcode/DerivedData/Lab3_VideoStream...*..../Build/Products/Debug/Lab3_VideoStream.app
+2. Copy dylibs to /Xcode/DerivedData/Lab2_DynamicUI_From_DyLib...*..../Build/Products/Debug/Lab2_DynamicUI_From_DyLib.app
 3. Run application.
 ```
